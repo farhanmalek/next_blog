@@ -1,6 +1,5 @@
 "use client"
 
-import React, { useContext, useLayoutEffect } from "react";
 import Category from "./Category";
 
 const Categories = ({ categories }: any) => {
